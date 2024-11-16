@@ -12,8 +12,6 @@ Add items to a cart, and complete purchases.
 - Pagination.
 - Light and Dark Themes.
 - Notification.
-
-
 - Live chat
 - Localization.
 ## Screenshots
